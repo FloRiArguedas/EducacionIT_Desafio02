@@ -1,0 +1,24 @@
+/* Desafio 2 - Floricela Arguedas - Ejercicio #2 */
+
+body {
+    background-color: #289688;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: #fcea3e;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img{
+    margin: 05px 05px 05px 05px;
+    border: solid white;
+    border-width: 10px;
+}
+
+
+/* Color turquesa: #289688 
+   Color Amarillo: #fcea3e
+   Color Bordes: White
+*/

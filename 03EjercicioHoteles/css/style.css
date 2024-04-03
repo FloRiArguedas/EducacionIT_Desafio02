@@ -1,0 +1,63 @@
+/* Floricela Arguedas - Desafio 2 - Ejercicio 3 */
+
+/* Estilo a los Textos */
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    color: #c05497;
+    text-align: center;
+    font-weight: 100;
+    letter-spacing: 11px;
+}
+
+
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    color: #c05497;
+    font-weight: 100;
+    letter-spacing: 5px;
+}
+
+
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    color: #3262a6;
+}
+
+
+/* Estilo a las Imágenes */
+
+.logoexclusive{
+    text-align: center;
+}
+.logo{
+    margin-top: 50px;
+    width: 400px;
+}
+.pop{
+    float: right;
+    width: 400px;
+    margin-left: 10px;
+}
+
+.caribbean{
+    float: left;
+    margin-right: 10px;
+    width: 400px;
+}
+
+.animalkingdom{
+    float: right;
+    width: 400px;
+    margin-left: 10px;
+}
+
+.mym{
+    width: 100%;
+}
+
+
+/* Colores
+Azul: #3262a6
+ROsado: #c05497 */

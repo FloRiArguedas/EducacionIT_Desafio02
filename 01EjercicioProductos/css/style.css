@@ -1,0 +1,102 @@
+/* Desafío 02 - ejercicio #1 - Floricela Arguedas Z */
+
+body {
+    background-color: #273238;
+}
+
+h1 {
+    background-color: white;
+    color: #698593;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 65px;
+    font-weight: normal;
+}
+
+h2 {
+    font-variant: small-caps;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+p {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+
+/* Links para personalizar H2's */
+
+#aspiradoras {
+    color: #e6cbbf;
+}
+
+#celulares {
+    color: #a1c1cb;
+}
+
+#consolas {
+    color: #bcbdbf;
+}
+
+#ht {
+    color: #8d94a1;
+}
+
+#tv {
+    color: #b2b2aa;
+}
+
+/* Clases para personalizar las imágenes */
+
+.aspiradora {
+    margin-left: 35px;
+    border: solid #e6cbbf;
+    border-width: 6px;
+    padding-top: 0.8px;
+    padding-left: 0.8px;
+}
+
+.celular {
+    margin-left: 35px;
+    border: solid #a1c1cb;
+    border-width: 6px;
+    padding-bottom: 0.8px;
+    padding-left: 0.8px;
+}
+
+.consola {
+    margin-left: 35px;
+    border: solid #bcbdbf;
+    border-width: 6px;
+    padding-top: 0.8px;
+    padding-left: 0.8px;
+    padding-bottom: 0.8px;
+}
+
+.home_t {
+    margin-left: 35px;
+    border: solid #8d94a1;
+    border-width: 6px;
+    padding-top: 0.8px;
+    padding-left: 0.8px;
+}
+
+.televisor {
+    margin-left: 35px;
+    border: solid #b2b2aa;
+    border-width: 6px;
+    padding-bottom: 0.8px;
+    padding-left: 0.8px;
+}
+
+
+/* COLORES 
+    color: #e6cbbf; #Aspiradoras
+    color: #a1c1cb; #Celulares
+    color: #bcbdbf; #Consolas
+    color: #8d94a1; #HomeTheaters
+    color: #b2b2aa; #Televisores*/
